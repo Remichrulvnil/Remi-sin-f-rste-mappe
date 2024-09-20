@@ -1,0 +1,30 @@
+
+    h1 {
+        color: blue;
+    }
+h2 {
+    display: inline;
+    color: brown;
+    background-color: cadetblue;
+}
+
+.spesiell {
+    width: 50%;
+}
+h6 {background-color: green;}
+
+h3 p {
+    font-style: italic;
+}
+
+.kursiv {
+    font-style: italic;
+}
+
+.span1 {
+    background-color: blue;
+}
+
+a {
+  text-decoration:none;
+}
